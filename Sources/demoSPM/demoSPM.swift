@@ -5,7 +5,7 @@ import UIKit
 
 final public class DemoSpmViewController: UIViewController {
     
-    override func viewDidLoad() {
+    public override func viewDidLoad() { // Add 'public' here
         super.viewDidLoad()
         
         // Set up the view's background color
