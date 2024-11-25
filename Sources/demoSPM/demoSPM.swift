@@ -13,7 +13,7 @@ final public class DemoSpmViewController: UIViewController {
         
         // Create and configure the UILabel
         let label = UILabel()
-        label.text = "Hello, World!"
+        label.text = "Hello, World! [NEW]"
         label.textColor = .black
         label.font = UIFont.systemFont(ofSize: 24, weight: .bold)
         label.textAlignment = .center
